@@ -1,0 +1,8 @@
+.fav-wrapper .custom-btn-favourite{
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    width: 20%;
+    background-color: transparent;
+    border: none;
+}

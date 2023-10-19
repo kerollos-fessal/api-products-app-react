@@ -1,0 +1,22 @@
+.home-wrapper .handle-size{
+    width: 8rem;
+    height: 8rem;
+    margin: auto;
+}
+
+#input-search{
+    margin-top: 80px;
+
+}
+
+
+.home-wrapper .fav-control{
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+
+.home-wrapper .fav-btn{
+    margin-left: 8rem;
+    margin-top: 100px;
+}

@@ -1,0 +1,19 @@
+.product-wrapper .custom-btn-favourite{
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    width: 20%;
+    background-color: transparent;
+    border: none;
+}
+
+.product-wrapper .custom-icon{
+    /* border: 2px black solid; */
+    filter: drop-shadow(2px 2px 2px rgb(150, 150, 150));
+    color: #e4e5e9;
+}
+
+.new-icon{
+    filter: drop-shadow(2px 2px 2px rgb(150, 150, 150));
+    color: #ffc107;
+}
